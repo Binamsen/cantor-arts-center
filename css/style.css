@@ -1,0 +1,417 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.top{
+	background-color: black;
+	height: auto;
+	width: 100%;
+}
+.top p{
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif","Times New Roman", "serif" ;
+	color: white;
+	padding-left: 40px;
+	margin: 0px;
+}
+.site-top{
+	height: auto;
+	width: 100%;
+}
+.site-top .col-md-12{
+	padding: 0px;
+}
+.site-top .col-md-5 p{
+	font-size: 35px;
+	color:brown;
+	font-weight: bold;
+	padding-left: 35px;
+}
+.site-top .col-md-3{
+	margin-top: 10px;
+	margin-left: 50px;
+	padding: 0px;
+}
+.site-top .col-md-3 .icon{
+	color: green;
+}
+.site-top .col-md-3 p{
+	font-size: 18px;
+	margin-bottom: 0px;
+	padding-left: 70px;
+}
+.site-top .col-md-2{
+	padding: 0px;
+	margin-left: 50px;
+}
+.site-top .col-md-2 .navbar-form{
+	padding: 0px;
+}
+
+nav{
+	height: auto;
+	width: 100%;
+}
+.navbar{
+	position:static;
+	margin-bottom: 0px;
+	border: 0px;
+}
+.navbar-default{
+	background-color: white;
+}
+ul li{
+	padding-left: 10px;
+}
+ul li a{
+	font-size: 18px;
+	color: brown;
+}
+.site-main{
+	margin-top: 3px;
+	height: 700px;
+	width: 100%;
+	background-repeat: no-repeat;
+   background: url(image/a.png) fixed;
+	background-size: cover;
+}
+.site-main .col-md-4{
+	padding: 0px;
+	margin-left: 490px;
+	margin-top: 300px;
+	font-size: 20px;
+	color: white;
+}
+.site-main .col-md-6{
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	padding: 0px;
+	margin-left: 350px;
+}
+.site-main .col-md-12{
+	padding: 0px;
+	font-size: 20px;
+	color: white;
+}
+.site-main .col-md-12{
+	padding: 0px;
+	
+}
+.site-main .col-md-12 button{
+	padding: 12px;
+	font-size: 15px;
+}
+.site-main .btn-danger{
+	background-color: brown;
+}
+
+.site-section{
+	
+	height: auto;
+	width: 100%;
+}
+.site-section .col-md-7{
+	padding: 0px;
+	margin-left: 10px;
+}
+.site-section .col-md-3{
+	margin-top: 100px;
+	margin-left: 80px;
+}
+.site-section .col-md-3 h2{
+	font-weight: bold;
+}
+.site-section .col-md-3 h4{
+	color: brown;
+}
+.site-section .col-md-3 h5{
+	font-size: 35px;
+}
+.site-section .col-md-3 p{
+	font-size: 18px;
+}
+
+.site-article{
+	height: auto;
+	width: 100%;
+	clear: both;
+}
+.site-article .well{
+	height: auto;
+	width: 100%;
+	overflow: hidden;
+}
+.site-article .well .col-md-12{
+	padding: 0px;
+}
+.site-article .col-md-12 h3{
+	font-size: 30px;
+	font-weight: bold;
+}
+.site-article .col-md-12 p{
+	font-size: 16px;
+}
+.site-article .well .col-md-4{
+	margin-top: 10px;
+}
+.site-article .well .col-md-4 h4{
+	font-weight: bold;
+}
+.site-header{
+	height: auto;
+	width: 100%;
+	clear: both;
+	margin-top: -1px;
+}
+.site-header .well{
+	height: auto;
+	width: 100%;
+	overflow: hidden;
+	background-color: white;
+}
+.site-header .col-md-12{
+	padding: 0px;
+}
+.site-header .col-md-12 h3{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.site-header .panel-body img{
+	float: left;
+}
+.site-header .panel-body h3{
+	color: brown;
+}
+.site-header .col-md-12 p{
+	font-size: 16px;
+}
+.site-aside{
+	height: auto;
+	width: 100%;
+	clear: both;
+}
+.parallax{
+	height: 600px;
+	
+	background-image: url(image/man2.png) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.site-aside .col-md-12{
+	margin-top: 30px;
+}
+.site-aside .col-md-12 h1{
+	color: white;
+	font-size: 60px;
+}
+.site-aside .col-md-12 p{
+	font-size: 28px;
+	color: white;
+}
+.site-aside .col-md-12 h5{
+	font-size: 28px;
+	color: white;
+}
+.site-aside .col-md-6{
+	padding: 0px;
+	margin-top: 25px;
+	margin-left: 400px;
+}
+.site-aside .input-group{
+	width: 100%;
+	
+}
+.site-aside .input-group input{
+	background: rgba(0,0,0,0.30);
+	height: 50px;
+}
+.site-aside .input-group-btn button{
+	background: rgba(0,0,0,0.30);
+	height: 50px;
+}
+.site-aside .icon{
+	color: red;
+	font-size: 22px;
+}
+.site-aside input{
+	color: white;
+	font-size: 20px;
+}
+.site-footer{
+	height: auto;
+	width: 100%;
+	
+}
+.site-footer .col-md-12{
+	margin-top: 28px;
+}
+.site-footer .col-md-12 h2{
+	font-weight: bold;
+	font-size: 40px;
+	color: brown;
+}
+.site-footer .col-md-12 h3{
+	font-size: 26px;
+}
+.site-footer .col-md-5{
+	padding: 0px;
+	margin-left: 75px;
+}
+.site-footer .col-md-5 img{
+	width: 100%;
+	height: 350px;
+	box-shadow: 2px 2px 1px 1px black;
+}
+.site-footer .col-md-5 h3{
+	font-weight: bold;
+	color: brown;
+}
+.site-footer .col-md-5 p{
+	font-size: 18px;
+	
+}
+.site-footer .col-md-5 a{
+	color: blue;
+	
+	text-decoration:underline;
+	
+}
+.site-footer .col-md-5 h5{
+	padding-top: 25px;
+	font-size: 20px;
+	
+}
+.site-footer .col-md-5 a:hover{
+	color: brown;
+}
+.site-buttom{
+	height: 800px;
+	width: 100%;
+	background-image: url(image/untitled-2.png);
+	background-attachment: fixed;
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	clear: both;
+	
+}
+.site-buttom .overlay{
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(235,235,235,0.95)), color-stop(17%,rgba(235,235,235,0.73)), color-stop(35%,rgba(235,235,235,0.73)), color-stop(62%,rgba(235,235,234,0.73)), color-stop(100%,rgba(235,235,235,0.95)));
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#66000000',GradientType=0 ); /* IE6-9 */
+	height: 800px;
+	background-attachment: fixed;
+}
+.overlay .content .col-md-12{
+	margin-top: 180px;
+}
+.overlay .content .col-md-12 h2{
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+}
+.overlay .content .col-md-12 button{
+	font-size: 18px;
+}
+.overlay .content .col-md-12 .btn-danger{
+	background-color: brown;
+}
+.content .col-md-3 h3{
+	font-family:"alex-brush";
+	color: brown;
+}
+.content .col-md-3 h4{
+	font-family:"alex-brush";
+	color: brown;
+}
+.content .col-md-3 hr{
+	display: block;
+	border-width: 5px;
+}
+.content .col-md-3 h5{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 25px;
+	color: brown;
+	padding-top: 20px;
+}
+.content .col-md-3 p{
+	font-size: 18px;
+}
+.content .col-md-3 a{
+	color: black;
+}
+.content .col-md-3 a:hover{
+	color: blue;
+}
+.content .icon{
+	font-size: 35px;
+	padding-top: 80px;
+	padding-left: 5px;
+}
+.content .col-md-8{
+	padding: 0px;
+	margin-top: 40px;
+	margin-left: 350px;
+}
+.content .col-md-8 p{
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+.end-footer{
+	height: 100px;
+	width: 100%;
+	background: brown;
+	clear: both;
+}
+.end-footer .col-md-2{
+	padding: 0px;
+}
+.end-footer .col-md-2 h2{
+	font-size: 35px;
+	margin-bottom: 0px;
+}
+.end-footer .col-md-2 h4{
+	font-size: 24px;
+	
+}
+.end-footer .col-md-2 h2{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: white;
+}
+.end-footer .col-md-2 h4{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: white;
+	margin: 0px;
+}
+.end-footer ul{
+	margin-bottom: 0px;
+	
+}
+.end-footer ul li{
+	list-style-type: none;
+	display: inline;
+	
+}
+.end-footer .col-md-10{
+	margin-top: 20px;
+}
+.end-footer ul li a{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	padding-left: 15px;
+	
+}
+.end-footer .col-md-10 p{
+	font-size: 18px;
+	color: white;
+	padding-left: 60px;
+	padding-top: 10px;
+	
+}
+	
